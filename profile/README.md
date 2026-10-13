@@ -25,7 +25,7 @@ Searches such as BeautyPlus photo retouching, BeautyPlus selfie editing, and Bea
 | **Remembers context** | Files, looks, and presets help you return to the next task fast. |
 | **Fast feedback** | Open BeautyPlus, pick a photo, and edit without switching tools. |
 
-![BeautyPlus](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSikXIUyrsNiJVnOyCc5_EP1y6mNb8HNyn_lp7iWIt_vw&s)
+![BeautyPlus](https://static-images.aptoide.com/_next/image?url=https%3A%2F%2Fcdn.aptoide.com%2Fimgs%2F6%2F3%2Fa%2F63a6d4b648ed0a879cda25ba066db1b3_fgraphic.jpg&w=3840&q=60)
 
 ## Key Features of BeautyPlus
 
